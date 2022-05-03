@@ -1,6 +1,6 @@
-# DiBritto
+# Tradução houzez para Portugues BR
 
-## Tradução para a lingua pt-BR do tema wordpress houzez
+## Tradução do tema houzez para a lingua pt-BR - tema wordpress
 
 Estrutura do diretorio rais do tema
 
