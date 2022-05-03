@@ -1,0 +1,183 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: houzez\n"
+"POT-Creation-Date: 2018-05-08 02:25+0500\n"
+"PO-Revision-Date: 2022-05-03 01:22-0300\n"
+"Language-Team: Favethemes <hello@favethemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html__;esc_html_e;_n;_nx\n"
+"Last-Translator: \n"
+"Language: pt_BR\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions/login_register.php:40
+msgid "The username or email field is empty."
+msgstr "O campo de nome de usuário ou e-mail está vazio."
+
+#: functions/login_register.php:44
+msgid "The password field is empty."
+msgstr "A senha está vazia."
+
+#: functions/login_register.php:48
+msgid "Invalid username or email"
+msgstr "Nome de usuário ou e-mail inválido"
+
+#: functions/login_register.php:75
+#, php-format
+msgid "The password you entered for the username <strong>%s</strong> is incorrect."
+msgstr "A senha que você digitou para o usuário <strong>%s</strong> está incorreta."
+
+#: functions/login_register.php:87
+msgid "Login successful, redirecting..."
+msgstr "Login bem sucedido, redirecionando..."
+
+#: functions/login_register.php:125
+msgid "You need to agree with terms & conditions."
+msgstr "Você precisa concordar com os termos e condições."
+
+#: functions/login_register.php:130 functions/login_register.php:244
+msgid "The username field is empty."
+msgstr "O nome está vazio."
+
+#: functions/login_register.php:134 functions/login_register.php:252
+msgid "Minimum 3 characters required"
+msgstr "Mínimo 3 caracteres necessários"
+
+#: functions/login_register.php:138 functions/login_register.php:256
+msgid "Invalid username (do not use special characters or spaces)!"
+msgstr "Nome de usuário inválido (não use nenhum caracter especial nem espaço)."
+
+#: functions/login_register.php:142 functions/login_register.php:248
+msgid "This username is already registered."
+msgstr "Este usuário já está registrado."
+
+#: functions/login_register.php:146 functions/login_register.php:260
+msgid "The email field is empty."
+msgstr "O e-mail está vazio."
+
+#: functions/login_register.php:151 functions/login_register.php:265
+msgid "This email address is already registered."
+msgstr "Este e-mail já está registrado."
+
+#: functions/login_register.php:156 functions/login_register.php:270
+msgid "Invalid email address."
+msgstr "E-mail inválido."
+
+#: functions/login_register.php:165
+msgid "One of the password field is empty!"
+msgstr "Um dos campos de senha está vazio."
+
+#: functions/login_register.php:170
+msgid "Passwords do not match"
+msgstr "As senhas não correspondem."
+
+#: functions/login_register.php:192
+msgid "Your account was created and you can login now!"
+msgstr "Sua conta foi criada e você pode acessar agora."
+
+#: functions/login_register.php:194
+msgid "An email with the generated password was sent!"
+msgstr "Um e-mail com a senha gerada foi enviado."
+
+#: functions/login_register.php:275
+msgid "The passowrd field is empty."
+msgstr "O campo passowrd está vazio."
+
+#: functions/login_register.php:297
+msgid "Agent account created!"
+msgstr "Conta de agente criada!"
+
+#: functions/login_register.php:352
+msgid "The Email you entered is not valid. Please try again."
+msgstr "O email que você digitou não é válido. Por favor, tente novamente."
+
+#: functions/login_register.php:358
+msgid "This Email is already used by another user. Please try a different one."
+msgstr "Este e-mail já é usado por outro usuário. Por favor, tente um diferente."
+
+#: functions/login_register.php:374
+msgid "Profile updated"
+msgstr "Perfil atualizado"
+
+#: functions/login_register.php:426
+msgid "Enter a username or email address."
+msgstr "Por favor, insira o nome ou o e-mail."
+
+#: functions/login_register.php:433
+msgid "There is no user registered with that email address."
+msgstr "Não existe usuário registrado com esse e-mail."
+
+#: functions/login_register.php:441
+msgid "Invalid username"
+msgstr "Usuário inválido."
+
+#: functions/login_register.php:457
+msgid "Someone has requested a password reset for the following account:"
+msgstr "Alguém solicitou que a senha fosse redefinida para a seguinte conta:"
+
+#: functions/login_register.php:459
+#, php-format
+msgid "Username: %s"
+msgstr "Usuário: %s"
+
+#: functions/login_register.php:460
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr "Se isto foi um erro, ignore este email e nada acontecerá."
+
+#: functions/login_register.php:461
+msgid "To reset your password, visit the following address:"
+msgstr "Para redefinir sua senha, visite o seguinte endereço:"
+
+#: functions/login_register.php:473
+#, php-format
+msgid "[%s] Password Reset"
+msgstr "[%s] Redefinição de senha"
+
+#: functions/login_register.php:502
+msgid "The email could not be sent."
+msgstr "O e-mail não pôde ser enviado."
+
+#: functions/login_register.php:502
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr "Possível razão: seu servidor desabilitou a função mail()."
+
+#: functions/login_register.php:505
+msgid "Check your email"
+msgstr "Verifique seu e-mail."
+
+#: functions/login_register.php:663
+msgid "Follow us on"
+msgstr "Siga-nos no"
+
+#: functions/roles.php:25
+msgid "Buyer"
+msgstr "Comprador"
+
+#: functions/roles.php:35
+msgid "Agency"
+msgstr "Imobiliária"
+
+#: functions/roles.php:62
+msgid "Agent"
+msgstr "Conta de agente criada!"
+
+#: functions/roles.php:89
+msgid "Seller"
+msgstr "Vendedor"
+
+#: functions/roles.php:106
+msgid "Owner"
+msgstr "Proprietário"
+
+#: functions/roles.php:125
+msgid "Manager"
+msgstr "Gerente"
+
+msgid "My Partners"
+msgstr "My Partners Fr p"
