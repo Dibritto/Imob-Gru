@@ -6,6 +6,29 @@ Estrutura do diretorio rais do tema
 
 ###### Diretorio wordpress
 1.  wp-content
+
+
+    ###### Diretorio plugin wordpress
+    - /plugins
+      - /houzez-crm
+        - /languages
+            - houzez-crm-pt_BR.mo
+            - houzez-crm-pt_BR.po
+      - /houzez-login-register
+        - /languages
+            - houzez-login-register-pt_BR.mo
+            - houzez-login-register-pt_BR.po
+      - /houzez-theme-functionality
+        - /languages
+            - eme-functionality-pt_BR.mo
+            - eme-functionality-pt_BR.po
+      - /houzez-crm
+        - /languages
+            - houzez-crm-pt_BR.mo
+            - houzez-crm-pt_BR.po
+
+                  
+    ###### Diretorio tema wordpress
     - /themes
       - /houzez
         - /languages
