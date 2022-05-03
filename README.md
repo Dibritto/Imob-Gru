@@ -41,4 +41,4 @@ Estrutura do diretorio rais do tema
 
 1. Baixe o arquivo em seu computador.
 2. descompact o arquivo.
-3. copie a pasta wp-content ou arraste e solte no diretorio raiz de seu wordpress.
+3. copie a pasta wp-content ou arraste e solte no diretorio raiz de seu wordpress (se pedir para substituir subistitua todos).
