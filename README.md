@@ -8,7 +8,7 @@ Estrutura do diretorio rais do tema
 1.  wp-content
 
 
-    ###### Diretorio plugin wordpress
+    ###### Diretorio plugin wordpress (100%)
     - /plugins
       - /houzez-crm
         - /languages
@@ -28,7 +28,7 @@ Estrutura do diretorio rais do tema
             - houzez-crm-pt_BR.po
 
                   
-    ###### Diretorio tema wordpress
+    ###### Diretorio tema wordpress (20%)
     - /themes
       - /houzez
         - /languages
